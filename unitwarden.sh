@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# unitwarden.sh — Comprehensive systemd unit & hidden unit detector
-# by ChatGPT
+# unitwarden.sh — Comprehensive systemd unit & hidden unit detector.
 
 set -euo pipefail
 
